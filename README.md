@@ -3,10 +3,6 @@ Java code examples for my tutorial website [tutorials.jenkov.com](http://tutoria
 
 ## Java Language
 
- - Java Annotations
+ - [Java Annotations](http://tutorials.jenkov.com/java/annotations.html)
 
-   Tutorial: [Java Annotations](http://tutorials.jenkov.com/java/annotations.html)
-
-   Examples:
-
-   [BasicAnnotationExamples](src/main/java/com/jenkov/java/annotations/BasicAnnotationExamples.java)
+   - [BasicAnnotationExamples](src/main/java/com/jenkov/java/annotations/BasicAnnotationExamples.java)
