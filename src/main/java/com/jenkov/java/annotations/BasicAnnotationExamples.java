@@ -1,5 +1,8 @@
 package com.jenkov.java.annotations;
 
+/**
+ * This Java Annotation example shows what Java Annotations looks like, and where they can be placed in the code.
+ */
 @MyAnnotation
 public class BasicAnnotationExamples {
 
