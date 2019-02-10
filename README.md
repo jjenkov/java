@@ -1,4 +1,4 @@
-# java
+# Java Code Examples
 Java code examples for my tutorial website [tutorials.jenkov.com](http://tutorials.jenkov.com)
 
 ## Java Language
@@ -9,4 +9,4 @@ Java code examples for my tutorial website [tutorials.jenkov.com](http://tutoria
 
    Examples:
 
-   [Basic Annotation](src/main/java/com/jenkov/java/annotations/BasicAnnotation.java)
+   [BasicAnnotationExamples](src/main/java/com/jenkov/java/annotations/BasicAnnotationExamples.java)
